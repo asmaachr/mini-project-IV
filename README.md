@@ -158,7 +158,7 @@ My next step: remove Anaconda, replace it with Miniconda and install all the lib
 - Time to complete all the tasks
 
 ## Future Goals
-- Pipeline with XGB classifier
+- Pipeline with XGB classifier (completed refer to XGB file but not deployed)
 - Review model best F1 score instead of accuracy to minimise client risk
 - Try a sequential model
 - More EDA 
